@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 this is a new file for commit
 I
 try
 this
 partial commit
 hmmmm
+=======
+this is a new file for commit
+>>>>>>> parent of be6d056... partial commit of new file
